@@ -1,4 +1,4 @@
-package Yin.rpc.cousumer.Yin.consumer;
+package Yin.rpc.consumer.Yin.consumer;
 
 import java.util.ArrayList;
 import java.util.List;
