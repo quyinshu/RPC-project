@@ -11,8 +11,8 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
-import Yin.rpc.cousumer.annotation.RemoteInvoke;
-import Yin.rpc.cousumer.param.Response;
+import Yin.rpc.consumer.annotation.RemoteInvoke;
+import Yin.rpc.consumer.param.Response;
 import Yin.rpc.user.TestRemote;
 import Yin.rpc.user.User;
 import Yin.rpc.user.UserRemote;

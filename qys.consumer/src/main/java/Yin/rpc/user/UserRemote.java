@@ -2,7 +2,7 @@ package Yin.rpc.user;
 
 import java.util.List;
 
-import Yin.rpc.cousumer.param.Response;
+import Yin.rpc.consumer.param.Response;
 
 
 public interface UserRemote {
